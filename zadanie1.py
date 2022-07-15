@@ -1,1 +1,1 @@
-tu wprwadzę sobie zmianu, żeby zobaczyć czy się aktualizaują
+# rozwiązania zadań z kursu na Udemy:
